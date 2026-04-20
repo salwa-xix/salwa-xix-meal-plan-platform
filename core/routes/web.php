@@ -10,6 +10,7 @@ Route::get('/', function () {
     ]);
 });
 
+
 Route::get('/generate-meal', function () {
     $apiKey = env('GEMINI_API_KEY');
 

@@ -48,7 +48,7 @@
                 box-shadow: 0 2px 8px rgba(0,0,0,0.08);
             "
         >
-            <thead style="background: #2d6cdf; color: white;">
+            <thead style="background: #2861cd; color: white;">
                 <tr>
                     <th>Meal</th>
                     <th>Food</th>
